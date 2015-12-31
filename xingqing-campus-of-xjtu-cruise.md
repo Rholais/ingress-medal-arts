@@ -1,3 +1,15 @@
+#	Xingqing Campus of XJTU Cruise
+
+##	Description
+
+This mission series is dedicated to Jiaotong University which will celebrate its 120th anniversary next year (2016).
+
+Please complete the mission series in order.
+
+Background Image by kakaguotao.
+
+##	Passphrases
+
 1. 交大北门
 	1. What is the number of address of Jiaotong University in Xianning West Road?
 	2. 28
