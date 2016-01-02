@@ -18,6 +18,7 @@ Background Image by kakaguotao.
 2. 饮水思源雕塑
 	1. Which year was this sculpture built in?
 	2. 1981
+	3. This sculpture was built in the 85th anniversary of Jiaotong University.
 
 3. Pillar with Words
 	1. How many "Pillar with Words"es are here in this side?
