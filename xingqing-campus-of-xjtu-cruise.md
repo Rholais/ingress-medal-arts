@@ -13,6 +13,7 @@ Background Image by kakaguotao.
 1. 交大北门
 	1. What is the number of address of Jiaotong University in Xianning West Road?
 	2. 28
+	3. Xi'an Jiaotong University has three campuses: the Xingqing Campus (the East Campus) is in No. 28 Xianning Road, Xi'an city, Shaanxi Province; the Yanta Campus (the West Campus) is in No.205 Zhuque Street; the Qujiang Campus (the New Campus) is in No.99 Yanxiang Road, where some Chinese students study in. 
 
 2. 饮水思源雕塑
 	1. Which year was this sculpture built in?
