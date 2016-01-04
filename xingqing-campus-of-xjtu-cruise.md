@@ -23,6 +23,7 @@ Background Image by kakaguotao.
 3. Pillar with Words
 	1. How many "Pillar with Words"es are here in this side?
 	2. 5
+	3. There are totally 10 pillars in both sides.
 
 4. Stone Lion
 	1. Which year was this "Stone Lion" given to Jiaotong University in?
