@@ -221,8 +221,9 @@ Background Image by kakaguotao.
 	2. 3
 
 53. 外文楼
-	1. Which corner is this rock at of "外文楼"? Please enter 2 CAPITAL letters.
-	2. NW
+	1. What's the name of "外文楼"?
+	2. Shaw
+	3. SFS is located in Shaw Building, which has classrooms equipped with advanced recording and multimedia systems, and a simultaneous interpretation training system.
 
 54. 西安交通大学陕西秦腔博物馆
 	1. Which entrance is this of the "西安交通大学陕西秦腔博物馆"? Please enter a single CAPITAL letter.
