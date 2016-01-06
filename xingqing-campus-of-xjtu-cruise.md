@@ -162,8 +162,9 @@ Background Image by kakaguotao.
 	2. 2
 
 38. 大学生文体教育中心
-	1. Which entrance is this of the "大学生文体教育中心"? Please enter a single CAPITAL letter.
-	2. S
+	1. Which year was "大学生文体教育中心" capped in?
+	2. 2010
+	3. On Nov. 15th, 2010, Student Recreation and Sports Education Center located at the crossing of Wenzhi Road and West Wall was roofed.
 
 39. 壁畫
 	1. Is the position of "壁畫" correct? Please enter a single CAPITAL letter.
