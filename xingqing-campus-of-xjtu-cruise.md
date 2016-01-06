@@ -28,6 +28,7 @@ Background Image by kakaguotao.
 4. Stone Lion
 	1. Which year was this "Stone Lion" given to Jiaotong University in?
 	2. 1996
+	3. The Stone Lion was to celebrate the 100th anniversary of Jiaotong University.
 
 5. 历史柱
 	1. How many "历史柱"s are here in this side?
