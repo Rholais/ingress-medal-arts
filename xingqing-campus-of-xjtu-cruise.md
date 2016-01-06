@@ -228,8 +228,9 @@ Background Image by kakaguotao.
 	3. SFS is located in Shaw Building, which has classrooms equipped with advanced recording and multimedia systems, and a simultaneous interpretation training system.
 
 54. 西安交通大学陕西秦腔博物馆
-	1. Which entrance is this of the "西安交通大学陕西秦腔博物馆"? Please enter a single CAPITAL letter.
-	2. N
+	1. Which Department of Shaanxi Province took part in the formation of "西安交通大学陕西秦腔博物馆"?
+	2. Culture
+	3. The Museum of Qinqiang Opera in Shaanxi Province is cooperatively formed by Department of Culture of Shaanxi Province and Xi’an Jiaotong University in 2009.
 
 55. 逸夫外文艺术馆
 	1. Which corner is this sculpture at of "逸夫外文艺术馆"? Please enter 2 CAPITAL letters.
