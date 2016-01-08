@@ -77,6 +77,7 @@ Background Image by kakaguotao.
 16. Water Injection
 	1. How many stone balls are here above the pool?
 	2. 3
+	3. Rising from the pool, there are three stone balls.
 
 17. Tengfei Tower
 	1. Which year was this tower built in?
