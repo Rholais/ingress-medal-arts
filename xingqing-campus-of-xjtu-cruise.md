@@ -33,6 +33,7 @@ Background Image by kakaguotao.
 5. 历史柱
 	1. How many "历史柱"s are here in this side?
 	2. 5
+	3. 10 pillars are located in both sides.
 
 6. 不明雕像
 	1. Which year was this sculpture given to Jiaotong University in?
