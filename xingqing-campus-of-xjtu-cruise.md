@@ -36,8 +36,9 @@ Background Image by kakaguotao.
 	3. 10 pillars are located in both sides.
 
 6. 不明雕像
-	1. Which year was this sculpture given to Jiaotong University in?
-	2. 2006
+	1. Which treatise was "传道授业解惑" come from?
+	2. Shishuo
+	3. The Shishuo "Explanations to Teaching" is a treatise on teaching compiled by the Tang period (618-907) writer, thinker and politician Han Yu.
 
 7. 周惠久雕像
 	1. Which year was this sculpture built in?
