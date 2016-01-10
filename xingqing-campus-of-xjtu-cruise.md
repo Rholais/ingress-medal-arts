@@ -41,8 +41,9 @@ Background Image by kakaguotao.
 	3. The Shishuo "Explanations to Teaching" is a treatise on teaching compiled by the Tang period (618-907) writer, thinker and politician Han Yu.
 
 7. 周惠久雕像
-	1. Which year was this sculpture built in?
-	2. 1998
+	1. Which year was Prof. Zhou born in?
+	2. 1909
+	3. Zhou Huijiu (1909 - 1999), native of Shenyang, Liaoning Province.
 
 8. 百世师表
 	1. Which year was this "百世师表" given to Jiaotong University in?
