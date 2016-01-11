@@ -238,8 +238,9 @@ Background Image by kakaguotao.
 	3. The Museum of Qinqiang Opera in Shaanxi Province is cooperatively formed by Department of Culture of Shaanxi Province and Xi’an Jiaotong University in 2009.
 
 55. 逸夫外文艺术馆
-	1. Which corner is this sculpture at of "逸夫外文艺术馆"? Please enter 2 CAPITAL letters.
-	2. NE
+	1. Which year was "逸夫外文艺术馆" completed in?
+	2. 2010
+	3. In 2010, "Shaw foreign building" completed, provides a set of teaching and scientific research, office as one of the facilities for the school.
 
 56. 友谊路石玖
 	1. Is "友谊路石玖" in campus? Please enter a single CATIPAL letter. 
