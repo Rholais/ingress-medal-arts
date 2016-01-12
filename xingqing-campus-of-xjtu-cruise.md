@@ -283,8 +283,9 @@ Background Image by kakaguotao.
 	2. 4
 
 66. 励志书院
-	1. How many buildings of dormitory does "励志书院" has?
-	2. 2
+	1. Which year was "励志书院" founded in?
+	2. 2008
+	3. Lizhi College was founded in July 2008 and is located next to the former residence of Bai Juyi, one of the most famous poets of China in Tang Dynasty.
 
 67. 两个人
 	1. How many full-length portraits are here?
