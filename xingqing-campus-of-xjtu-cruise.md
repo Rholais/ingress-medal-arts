@@ -53,6 +53,7 @@ Background Image by kakaguotao.
 9. 彭康校长塑像
 	1. Which year was Former President Peng born in?
 	2. 1901
+	3. Mr. Peng was born in Aug. 26th, 1901.
 
 10. 西花园
 	1. How many holes are here in this sculpture?
