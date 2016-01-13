@@ -48,6 +48,7 @@ Background Image by kakaguotao.
 8. 百世师表
 	1. Which year was this "百世师表" given to Jiaotong University in?
 	2. 2004
+	3. The stone was donated to Jiaotong University around its 108 anniversary.
 
 9. 彭康校长塑像
 	1. Which year was Former President Peng born in?
