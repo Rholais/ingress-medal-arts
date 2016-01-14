@@ -48,7 +48,7 @@ Background Image by kakaguotao.
 8. 百世师表
 	1. Which year was this "百世师表" given to Jiaotong University in?
 	2. 2004
-	3. The stone was donated to Jiaotong University around its 108 anniversary.
+	3. The stone was donated to Jiaotong University around its 108th anniversary.
 
 9. 彭康校长塑像
 	1. Which year was Former President Peng born in?
@@ -87,6 +87,7 @@ Background Image by kakaguotao.
 17. Tengfei Tower
 	1. Which year was this tower built in?
 	2. 1986
+	3. The Tower was donated to Jiaotong University around its 90th anniversary.
 
 18. 图书馆喷泉
 	1. How many entrances to control room around the pool?
