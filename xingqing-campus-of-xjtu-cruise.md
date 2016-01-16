@@ -58,6 +58,7 @@ Background Image by kakaguotao.
 10. 西花园
 	1. How many holes are here in this sculpture?
 	2. 2
+	3. A couple of holes are in this sculpture.
 
 11. Rock Statue in Xincheng
 	1. Which year was the nationwide college admission examinations restored in?
