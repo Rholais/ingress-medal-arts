@@ -63,6 +63,7 @@ Background Image by kakaguotao.
 11. Rock Statue in Xincheng
 	1. Which year was the nationwide college admission examinations restored in?
 	2. 1977
+	3. In late 1977, Deng Xiaoping, then under Hua Guofeng, the heir apparent of Mao, officially resumed the traditional examination based on academics, the National Higher Education Entrance Examination, which has continued to the present day.
 
 12. 电器
 	1. How many Chinese characters are here on the stone?
