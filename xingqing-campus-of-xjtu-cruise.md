@@ -250,6 +250,7 @@ Background Image by kakaguotao.
 56. 友谊路石玖
 	1. Is "友谊路石玖" in campus? Please enter a single CATIPAL letter. 
 	2. N
+	3. This stone is located on Youyi Road.
 
 57. 管院
 	1. Which corner is this signboard at of "管院"? Please enter 2 CAPITAL letters.
