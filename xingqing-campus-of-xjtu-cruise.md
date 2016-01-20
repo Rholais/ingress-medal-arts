@@ -92,8 +92,9 @@ Background Image by kakaguotao.
 	3. The Tower was donated to Jiaotong University around its 90th anniversary.
 
 18. 图书馆喷泉
-	1. How many entrances to control room around the pool?
-	2. 2
+	1. Which year was the predecessor of Xi'an Jiaotong University Library built in?
+	2. 1896
+	3. The predecessor of Xi'an Jiaotong University Library was the book collection building of Nanyang College founded in Shanghai in 1896.
 
 19. 天降巨斧
 	1. Which direction is the "天降巨斧" in? Please enter 2 CAPITAL letters.
