@@ -297,6 +297,7 @@ Background Image by kakaguotao.
 67. 两个人
 	1. How many full-length portraits are here?
 	2. 2
+	3. Here is a couple of statues of people.
 
 68. 白居易
 	1. Which direction does "白居易" face? Please enter 2 CATIPAL letter.
