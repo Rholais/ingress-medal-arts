@@ -270,8 +270,9 @@ Background Image by kakaguotao.
 	2. S
 
 61. 西安交通大学南门景观
-	1. Which year was Jiaotong University established in? 
+	1. Which year was the predecessor of Jiaotong University established in? 
 	2. 1896
+	3. The predecessor of XJTU was Nanyang College, which was founded in 1896 in Shanghai and renamed Jiaotong University in 1921.
 
 62. 西交大南门
 	1. Which entrance is this of Jiaotong University? Please enter a single CAPITAL letter.
