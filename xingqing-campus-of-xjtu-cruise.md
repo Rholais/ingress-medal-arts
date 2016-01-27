@@ -99,6 +99,7 @@ Background Image by kakaguotao.
 19. 天降巨斧
 	1. Which direction is the "天降巨斧" in? Please enter 2 CAPITAL letters.
 	2. NW
+	3. "天降巨斧" is actually Tengfei Tower.
 
 20. Library of xjtu
 	1. Which corner is this of the library? Please enter 2 CAPITAL letters.
