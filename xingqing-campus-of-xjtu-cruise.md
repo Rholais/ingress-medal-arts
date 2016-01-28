@@ -302,8 +302,9 @@ Background Image by kakaguotao.
 	3. Here is a couple of statues of people.
 
 68. 白居易
-	1. Which direction does "白居易" face? Please enter 2 CATIPAL letter.
-	2. NW
+	1. Which Dynasty was Mr. Bai served?
+	2. Tang
+	3. Bai Juyi was a renowned Chinese poet and Tang Dynasty government official.
 
 69. 白居易东亭碑记
 	1. Is the position of "白居易东亭碑记" correct? Please enter a single CAPITAL letter.
