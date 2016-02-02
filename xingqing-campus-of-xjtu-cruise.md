@@ -308,8 +308,9 @@ Background Image by kakaguotao.
 	3. Bai Juyi was a renowned Chinese poet and Tang Dynasty government official.
 
 69. 白居易东亭碑记
-	1. Is the position of "白居易东亭碑记" correct? Please enter a single CAPITAL letter.
-	2. N
+	1. How many provinces has Mr. Bai been governor of?
+	2. 3
+	3. Many of poems of Bai Juyi concern his career or observations made about everyday life, including as governor of three different provinces.
 
 70. 康桥苑广场
 	1. How many floors does "康桥苑" have? 
