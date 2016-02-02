@@ -102,8 +102,9 @@ Background Image by kakaguotao.
 	3. "天降巨斧" is actually Tengfei Tower.
 
 20. Library of xjtu
-	1. Which corner is this of the library? Please enter 2 CAPITAL letters.
-	2. NE
+	1. Which city was the first independent library building established in?
+	2. Shanghai
+	3. An independent library building was built and named the Library of Shanghai Industry Polytechnic College of Communications Ministry in August, 1919, and renamed Jiaotong University Library in 1921.
 
 21. 钱学森图书馆东边的大鼎
 	1. Which year was this "大鼎" built in?
