@@ -277,8 +277,9 @@ Background Image by kakaguotao.
 	3. The predecessor of XJTU was Nanyang College, which was founded in 1896 in Shanghai and renamed Jiaotong University in 1921.
 
 62. 西交大南门
-	1. Which entrance is this of Jiaotong University? Please enter a single CAPITAL letter.
-	2. S
+	1. Which city was the main body of Jiaotong University moved to?
+	2. Xi'an
+	3. In 1956, the main body of Jiaotong University was moved to Xi'an according to the decision issued by the State Council, and was formally named Xi'an Jiaotong University in 1959, which was listed as a national key university.
 
 63. 交大南区邮电所
 	1. What is the post code of this area?
