@@ -228,8 +228,9 @@ Background Image by kakaguotao.
 	2. N
 
 51. 文治书院
-	1. How many buildings of dormitory does "文治书院" has?
-	2. 3
+	1. Which year was "文治书院" established in?
+	2. 2007
+	3. The college was founded in 2007 and its celebrating day falls on October 16th.
 
 52. 一等苑
 	1. How many Chinese characters are here on the stone?
