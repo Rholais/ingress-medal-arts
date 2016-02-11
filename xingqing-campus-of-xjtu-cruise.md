@@ -319,8 +319,9 @@ Background Image by kakaguotao.
 	2. 4
 
 71. 西安交通大学 东南门
-	1. Which direction does "西安交通大学 东南门" face? Please enter a single CATIPAL letter.
-	2. E
+	1. Which year was the original Xi'an Medical University integrated into Jiaotong University in?
+	2. 2004
+	3. In April 2004, approved by the State Council, the original Xi'an Medical University and original Shaanxi Institute of Finance and Economics were integrated into Xi'an Jiaotong University.
 
 72. 交大出版社
 	1. Is the position of "交大出版社" correct? Please enter a single CAPITAL letter.
