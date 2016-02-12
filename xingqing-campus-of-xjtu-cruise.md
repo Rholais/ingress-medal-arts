@@ -340,8 +340,9 @@ Background Image by kakaguotao.
 	2. SV
 
 76. 熊猫
-	1. How many pandas are here on the sculpture? 
-	2. 2
+	1. Which country is panda native to?
+	2. China
+	3. The giant panda, also known as panda bear or simply panda, is a bear native to south central China.
 
 77. 东花园
 	1. How many pavilions are here in "东花园"?
