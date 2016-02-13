@@ -386,6 +386,7 @@ Background Image by kakaguotao.
 86. 石狮子踩石狮子
 	1. How many "石狮子"s are here on the sculpture? 
 	2. 3
+	3. Three stone lions stand on the sculpture.
 
 87. 西安交大东南门旭邦大厦
 	1. How many flagpoles are here? 
