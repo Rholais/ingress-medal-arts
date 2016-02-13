@@ -285,6 +285,7 @@ Background Image by kakaguotao.
 63. 交大南区邮电所
 	1. What is the post code of this area?
 	2. 710049
+	3. No.28, Xianning West Road, Xi'an, Shaanxi, 710049, P.R. China
 
 64. Statue of Peng Kang
 	1. How many buildings of dormitory does Peng Kang College has?
