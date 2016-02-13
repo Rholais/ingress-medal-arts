@@ -318,6 +318,7 @@ Background Image by kakaguotao.
 70. 康桥苑广场
 	1. How many floors does "康桥苑" have? 
 	2. 4
+	3. Paradise of Canbridge is a building of four floors.
 
 71. 西安交通大学 东南门
 	1. Which year was the original Xi'an Medical University integrated into Jiaotong University in?
