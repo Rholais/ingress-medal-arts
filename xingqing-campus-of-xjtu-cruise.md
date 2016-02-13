@@ -365,6 +365,7 @@ Background Image by kakaguotao.
 81. 九十周年石像
 	1. Which year was the 90th anniversary of Jiaotong University? 
 	2. 1986
+	3. The predecessor of Xi'an Jiaotong University was Nanyang Public University which was founded in Shanghai in 1896.
 
 82. 琅书园
 	1. How many Chinese characters are here on the stone? 
