@@ -326,8 +326,9 @@ Background Image by kakaguotao.
 	3. In April 2004, approved by the State Council, the original Xi'an Medical University and original Shaanxi Institute of Finance and Economics were integrated into Xi'an Jiaotong University.
 
 72. 交大出版社
-	1. Is the position of "交大出版社" correct? Please enter a single CAPITAL letter.
-	2. N
+	1. What is the new model for research universities?
+	2. 2+4+X
+	3. An important element of this reform is the new “2+4+X” model for research universities; a model which emphasizes providing the students with a solid foundation of general knowledge, sound research skills and the ability to innovate.
 
 73. 高电压技术教研室
 	1. Which year was this rock given to Jiaotong University in? 
