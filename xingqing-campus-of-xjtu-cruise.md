@@ -107,8 +107,9 @@ Background Image by kakaguotao.
 	3. An independent library building was built and named the Library of Shanghai Industry Polytechnic College of Communications Ministry in August, 1919, and renamed Jiaotong University Library in 1921.
 
 21. 钱学森图书馆东边的大鼎
-	1. Which year was this "大鼎" built in?
-	2. 1996
+	1. How many percent of collections of the library moved to Xi'an?
+	2. 90
+	3. With the move of the University to Xi'an in 1956, the most of personnel and 90% of the collections of the library were moved from Shanghai to Xi'an.
 
 22. 西安交大百年校庆纪念
 	1. Which year was the 100th anniversary of Jiaotong University?
