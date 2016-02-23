@@ -128,8 +128,9 @@ Background Image by kakaguotao.
 	2. SE
 
 26. Compass at Xi'an Jiaotong University
-	1. Which corner is this statue at of the square? Please enter 2 CAPITAL letters.
-	2. NE
+	1. Which year did Jiaotong University create a system of residential colleges in?
+	2. 2006
+	3. In 2006, XJTU took the lead among Chinese universities when it undertook to create a system of residential colleges modeled on the traditional Chinese academy of learning. 
 
 27. Statue in Xincheng
 	1. How many numerical digits are here on the statue?
