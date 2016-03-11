@@ -112,8 +112,9 @@ Background Image by kakaguotao.
 	3. With the move of the University to Xi'an in 1956, the most of personnel and 90% of the collections of the library were moved from Shanghai to Xi'an.
 
 22. 西安交大百年校庆纪念
-	1. Which year was the 100th anniversary of Jiaotong University?
-	2. 1996
+	1. Which year was the “Qian Xuesen Experimental Class” established in?
+	2. 2007
+	3. In 2007, XJTU established the “Qian Xuesen Experimental Class” for particularly gifted students and the “Zonglian Experimental Class”, whose purpose is to develop an appropriate classroom model for medical education.
 
 23. 千秋石
 	1. How many Chinese characters are here on the rock?
