@@ -134,8 +134,9 @@ Background Image by kakaguotao.
 	3. In 2006, XJTU took the lead among Chinese universities when it undertook to create a system of residential colleges modeled on the traditional Chinese academy of learning. 
 
 27. Statue in Xincheng
-	1. How many numerical digits are here on the statue?
-	2. 11
+	1. Which part of Xi'an's walled city does Xincheng District contains? Please enter 2 CAPITAL letters.
+	2. NW
+	3. It includes the northwestern part of Xi'an's walled city, as well as a number of neighborhoods to the east and northeast.
 
 28. Statue of Qian
 	1. Which year was the name of library changed in?
