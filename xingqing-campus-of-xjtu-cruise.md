@@ -338,8 +338,9 @@ Background Image by kakaguotao.
 	3. An important element of this reform is the new “2+4+X” model for research universities; a model which emphasizes providing the students with a solid foundation of general knowledge, sound research skills and the ability to innovate.
 
 73. 高电压技术教研室
-	1. Which year was this rock given to Jiaotong University in? 
-	2. 2006
+	1. How many factors are considered in classifying "high voltage"?
+	2. 2
+	3. Two factors considered in classifying a voltage as "high voltage" are the possibility of causing a spark in air, and the danger of electric shock by contact or proximity.
 
 74. 交大历史纪念馆
 	1. Which year did Jiaotong University move to Xi'an in? 
