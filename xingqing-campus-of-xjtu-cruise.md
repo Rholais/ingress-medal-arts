@@ -214,8 +214,9 @@ Background Image by kakaguotao.
 	2. N
 
 46. 思源学生活动中心
-	1. How many pillars are here at the south entrance of "思源学生活动中心"?
-	2. 2
+	1. Where is water come from?
+	2. Source
+	3. Literally "when you drink water, think of its source", i.e. remember where and how the water came from.
 
 47. 飞翔
 	1. How many "飞翔"s are here on the lawn?
