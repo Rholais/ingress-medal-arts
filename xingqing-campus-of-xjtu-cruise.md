@@ -172,8 +172,9 @@ Background Image by kakaguotao.
 	2. 1996
 
 36. 民俗壁画
-	1. Which year was this sculpture built in?
-	2. 2004
+	1. Which century has murals been in common use since?
+	2. 19
+	3. Whether these works can be accurately called "murals" is a subject of some controversy in the art world, but the technique has been in common use since the late 19th century.
 
 37. 就业指导中心
 	1. Which floor is "就业指导中心" at? Please enter a single numerical digit.
