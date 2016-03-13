@@ -151,8 +151,9 @@ Background Image by kakaguotao.
 	2. NW
 
 31. 逸夫工程馆旁边的石头
-	1. Which corner is this rock at of the Shaw Engineering Building? Please enter 2 CAPITAL letters.
-	2. NE
+	1. Where is Shaw College? Please enter 4 CAPITAL letters.
+	2. CUHK
+	3. More than 5,000 buildings on Chinese college campuses bear his name, as does Shaw College of the Chinese University of Hong Kong.
 
 32. 大钟
 	1. Which year was this statue built in?
