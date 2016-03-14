@@ -194,8 +194,9 @@ Background Image by kakaguotao.
 	2. 12
 
 41. 西安交通大学主楼
-	1. What is the ID of this building? Please enter a single CAPITAL letter.
-	2. E
+	1. Which year was the first Experimental Class for Talents of Basic Subject started?
+	2. 2010
+	3. In 2010, the university first Experimental Class for Talents of Basic Subject was started. 
 
 42. 天下为公
 	1. Which year was Dr. Sun Yat-sen born in?
