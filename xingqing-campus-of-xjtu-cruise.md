@@ -296,8 +296,9 @@ Background Image by kakaguotao.
 	3. No.28, Xianning West Road, Xi'an, Shaanxi, 710049, P.R. China
 
 64. Statue of Peng Kang
-	1. How many buildings of dormitory does Peng Kang College has?
-	2. 4
+	1. Which year was the first college of the collegiate system founded in?
+	2. 2006
+	3. Named after one of the previous presidents, Peng Kang, the Pengkang College, was founded in September 2006 as the first college of the collegiate system within Xi’an Jiaotong University, which opens a new chapter of cultivation reform at our university. 
 
 65. 仲英书院
 	1. How many buildings of dormitory does "仲英书院" has?
