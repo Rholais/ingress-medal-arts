@@ -345,8 +345,9 @@ Background Image by kakaguotao.
 	3. Two factors considered in classifying a voltage as "high voltage" are the possibility of causing a spark in air, and the danger of electric shock by contact or proximity.
 
 74. 交大历史纪念馆
-	1. Which year did Jiaotong University move to Xi'an in? 
-	2. 1956
+	1. Which province is Xi'an Jiaotong University located in?
+	2. Shaanxi
+	3. Xi'an Jiatong University, which is located in the city of Xi'an in Shaanxi province, has three campuses: the Xingqing campus, the Yanta campus and the Qujiang campus, covering a total area of 1.9894 million square meters.
 
 75. 交大机械结构强度与振动国家重点实验室
 	1. What are the two CAPITAL letters on its logo? 
