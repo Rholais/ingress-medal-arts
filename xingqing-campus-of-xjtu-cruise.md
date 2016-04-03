@@ -117,8 +117,9 @@ Background Image by kakaguotao.
 	3. In 2007, XJTU established the “Qian Xuesen Experimental Class” for particularly gifted students and the “Zonglian Experimental Class”, whose purpose is to develop an appropriate classroom model for medical education.
 
 23. 千秋石
-	1. How many Chinese characters are here on the rock?
-	2. 3
+	1. What is the name of an Indian indoor swing?
+	2. Oonjal
+	3. A swing is a hanging seat, often found at playgrounds for children including adults, at circus for acrobats, or on a porch for relaxing, although they may also be items of indoor furniture, such as the Indian oonjal.
 
 24. 谛
 	1. How many Chinese characters are here on the statue?
