@@ -140,8 +140,9 @@ Background Image by kakaguotao.
 	3. It includes the northwestern part of Xi'an's walled city, as well as a number of neighborhoods to the east and northeast.
 
 28. Statue of Qian
-	1. Which year was the name of library changed in?
-	2. 1995
+	1. Which year did the US government strip off Dr. Qian's security clearance in?
+	2. 1950
+	3. During the Second Red Scare of the 1950s, the United States government accused Qian of having communist sympathies, and he was stripped off his security clearance in 1950.
 
 29. Paper Making
 	1. Which corner is this statue at of the square? Please enter 2 CAPITAL letters.
