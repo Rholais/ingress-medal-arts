@@ -158,8 +158,9 @@ Background Image by kakaguotao.
 	3. More than 5,000 buildings on Chinese college campuses bear his name, as does Shaw College of the Chinese University of Hong Kong.
 
 32. 大钟
-	1. Which year was this statue built in?
-	2. 1996
+	1. What is the study of bells called?
+	2. Campanology
+	3. The study of bells is called campanology.
 
 33. 田家炳艺术中心
 	1. How many full-length portraits are here outside "田家炳艺术中心"?
