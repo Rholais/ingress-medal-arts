@@ -203,8 +203,9 @@ Background Image by kakaguotao.
 	3. In 2010, the university first Experimental Class for Talents of Basic Subject was started. 
 
 42. 天下为公
-	1. Which year was Dr. Sun Yat-sen born in?
-	2. 1866
+	1. Which chapter of the Book of Rites did the notion of the "Great Unity" appear in?
+	2. Liyun
+	3. The notion of the "Great Unity" appeared in the Liyun chapter of the Book of Rites, one of the Confucian Chinese classics.
 
 43. 残垣断壁
 	1. How many stone benches are here?
