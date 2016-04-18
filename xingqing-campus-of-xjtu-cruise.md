@@ -122,8 +122,9 @@ Background Image by kakaguotao.
 	3. A swing is a hanging seat, often found at playgrounds for children including adults, at circus for acrobats, or on a porch for relaxing, although they may also be items of indoor furniture, such as the Indian oonjal.
 
 24. 谛
-	1. How many Chinese characters are here on the statue?
-	2. 0
+	1. How many "Noble Truths" are there?
+	2. 4
+	3. In early Buddhist literature, sacca is often found in the context of the "Four Noble Truths", a crystallization of Buddhist wisdom. 
 
 25. Statue of Printing
 	1. Which corner is this statue at of the square? Please enter 2 CAPITAL letters.
