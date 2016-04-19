@@ -146,8 +146,9 @@ Background Image by kakaguotao.
 	3. During the Second Red Scare of the 1950s, the United States government accused Qian of having communist sympathies, and he was stripped off his security clearance in 1950.
 
 29. Paper Making
-	1. Which corner is this statue at of the square? Please enter 2 CAPITAL letters.
-	2. SW
+	1. Which century was Fourdrinier machine invented in?
+	2. 19
+	3. Since the invention of the Fourdrinier machine in the 19th century, most paper has been made from wood pulp because of cost.
 
 30. Dynamite
 	1. Which corner is this statue at of the square? Please enter 2 CAPITAL letters.
