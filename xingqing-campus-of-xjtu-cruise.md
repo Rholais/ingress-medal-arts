@@ -165,8 +165,9 @@ Background Image by kakaguotao.
 	3. The study of bells is called campanology.
 
 33. 田家炳艺术中心
-	1. How many full-length portraits are here outside "田家炳艺术中心"?
-	2. 5
+	1. Which year was Dr. Tin born in?
+	2. 1919
+	3. Dr. Tin Ka-ping, GBM, MBE, born on 20 November 1919 in Dabu County of Meizhou, Guangdong Province, China, an entrepreneur and philanthropist in Hong Kong.
 
 34. Transformers
 	1. Which direction does the Transformer face? Please enter a single CATIPAL letter.
