@@ -193,8 +193,9 @@ Background Image by kakaguotao.
 	3. On Nov. 15th, 2010, Student Recreation and Sports Education Center located at the crossing of Wenzhi Road and West Wall was roofed.
 
 39. 壁畫
-	1. Is the position of "壁畫" correct? Please enter a single CAPITAL letter.
-	2. N
+	1. Which civilization do the San Bartolo murals belong to?
+	2. Maya
+	3. The San Bartolo murals of the Maya civilization in Guatemala, are the oldest example of this art in Mesoamerica and are dated at 300 BC.
 
 40. 能量柱3
 	1. How many "能量柱"s are here on the platform?
