@@ -212,8 +212,9 @@ Background Image by kakaguotao.
 	3. The notion of the "Great Unity" appeared in the Liyun chapter of the Book of Rites, one of the Confucian Chinese classics.
 
 43. 残垣断壁
-	1. How many stone benches are here?
-	2. 4
+	1. Which year was Valletta Treaty signed in?
+	2. 1992
+	3. The 1992 treaty aims to protect the European archaeological heritage "as a source of European collective memory and as an instrument for historical and scientific study".
 
 44. 大号蘑菇亭
 	1. How many pillars does "大号蘑菇亭" have?
