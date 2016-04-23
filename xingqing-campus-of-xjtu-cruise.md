@@ -230,8 +230,9 @@ Background Image by kakaguotao.
 	3. Literally "when you drink water, think of its source", i.e. remember where and how the water came from.
 
 47. 飞翔
-	1. How many "飞翔"s are here on the lawn?
-	2. 2
+	1. Which year was the film Pandora and the Flying Dutchman released in?
+	2. 1951
+	3. The story was dramatised in the 1951 film Pandora and the Flying Dutchman, starring James Mason and Ava Gardner.
 
 48. 石榴花
 	1. Which year was the International Horticulture Exposition held in Xi'an in?
