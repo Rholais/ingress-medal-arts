@@ -361,8 +361,9 @@ Background Image by kakaguotao.
 	3. Xi'an Jiatong University, which is located in the city of Xi'an in Shaanxi province, has three campuses: the Xingqing campus, the Yanta campus and the Qujiang campus, covering a total area of 1.9894 million square meters.
 
 75. 交大机械结构强度与振动国家重点实验室
-	1. What are the two CAPITAL letters on its logo? 
-	2. SV
+	1. What is the sign of Young's modulus?
+	2. E
+	3. Young's modulus (E) describes tensile elasticity, or the tendency of an object to deform along an axis when opposing forces are applied along that axis.
 
 76. 熊猫
 	1. Which country is panda native to?
