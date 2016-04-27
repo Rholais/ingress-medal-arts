@@ -151,8 +151,9 @@ Background Image by kakaguotao.
 	3. Since the invention of the Fourdrinier machine in the 19th century, most paper has been made from wood pulp because of cost.
 
 30. Dynamite
-	1. Which corner is this statue at of the square? Please enter 2 CAPITAL letters.
-	2. NW
+	1. Which year was dynamite patented in?
+	2. 1867
+	3. Dynamite was invented by the Swedish chemist and engineer Alfred Nobel in Geesthacht, and patented in 1867.
 
 31. 逸夫工程馆旁边的石头
 	1. Where is Shaw College? Please enter 4 CAPITAL letters.
