@@ -171,8 +171,9 @@ Background Image by kakaguotao.
 	3. Dr. Tin Ka-ping, GBM, MBE, born on 20 November 1919 in Dabu County of Meizhou, Guangdong Province, China, an entrepreneur and philanthropist in Hong Kong.
 
 34. Transformers
-	1. Which direction does the Transformer face? Please enter a single CATIPAL letter.
-	2. E
+	1. Which year did the Transformer franchise begin in?
+	2. 1984
+	3. Initially a line of transforming toys rebranded from Takara's Diaclone and Microman toylines, the franchise began in 1984 with the Transformers toy line, and centers on factions of transforming alien robots in an endless struggle for dominance or eventual peace. 
 
 35. 桃李芬芳
 	1. Which year was this "桃李芬芳" given to Jiaotong University in?
