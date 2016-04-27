@@ -200,8 +200,9 @@ Background Image by kakaguotao.
 	3. The San Bartolo murals of the Maya civilization in Guatemala, are the oldest example of this art in Mesoamerica and are dated at 300 BC.
 
 40. 能量柱3
-	1. How many "能量柱"s are here on the platform?
-	2. 12
+	1. What are piezoelectric resonators commonly made from?
+	2. Quartz
+	3. For example, piezoelectric resonators, commonly made from quartz, are used as frequency references.
 
 41. 西安交通大学主楼
 	1. Which year was the first Experimental Class for Talents of Basic Subject started?
