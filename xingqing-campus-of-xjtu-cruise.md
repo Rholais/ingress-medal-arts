@@ -199,6 +199,8 @@ Background Image by kakaguotao.
 	2. Maya
 	3. The San Bartolo murals of the Maya civilization in Guatemala, are the oldest example of this art in Mesoamerica and are dated at 300 BC.
 
+391. 交通大学历史印记
+
 40. 能量柱3
 	1. What are piezoelectric resonators commonly made from?
 	2. Quartz
@@ -213,6 +215,8 @@ Background Image by kakaguotao.
 	1. Which chapter of the Book of Rites did the notion of the "Great Unity" appear in?
 	2. Liyun
 	3. The notion of the "Great Unity" appeared in the Liyun chapter of the Book of Rites, one of the Confucian Chinese classics.
+
+421. 校长像
 
 43. 残垣断壁
 	1. Which year was Valletta Treaty signed in?
@@ -244,6 +248,10 @@ Background Image by kakaguotao.
 49. 崇实书院
 	1. How many buildings of dormitory does "崇实书院" has?
 	2. 2
+
+491. 辩论赛
+
+492. Foreign Student Department
 
 50. 荟萃园
 	1. Is the position of "荟萃园" correct? Please enter a single CAPITAL letter.
@@ -322,6 +330,8 @@ Background Image by kakaguotao.
 	1. Which year was "励志书院" founded in?
 	2. 2008
 	3. Lizhi College was founded in July 2008 and is located next to the former residence of Bai Juyi, one of the most famous poets of China in Tang Dynasty.
+	
+661. 赑屃
 
 67. 两个人
 	1. How many full-length portraits are here?
@@ -342,6 +352,8 @@ Background Image by kakaguotao.
 	1. How many floors does "康桥苑" have? 
 	2. 4
 	3. Paradise of Canbridge is a building of four floors.
+	
+701. 仲英院训墙
 
 71. 西安交通大学 东南门
 	1. Which year was the original Xi'an Medical University integrated into Jiaotong University in?
