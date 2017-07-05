@@ -194,17 +194,17 @@ Background Image by kakaguotao.
 	2. 2010
 	3. On Nov. 15th, 2010, Student Recreation and Sports Education Center located at the crossing of Wenzhi Road and West Wall was roofed.
 
-39. 壁畫
-	1. Which civilization do the San Bartolo murals belong to?
-	2. Maya
-	3. The San Bartolo murals of the Maya civilization in Guatemala, are the oldest example of this art in Mesoamerica and are dated at 300 BC.
+381. 交通大学历史印记
 
-391. 交通大学历史印记
-
-40. 能量柱3
+39. 能量柱3
 	1. What are piezoelectric resonators commonly made from?
 	2. Quartz
 	3. For example, piezoelectric resonators, commonly made from quartz, are used as frequency references.
+	
+40. 壁畫
+	1. Which civilization do the San Bartolo murals belong to?
+	2. Maya
+	3. The San Bartolo murals of the Maya civilization in Guatemala, are the oldest example of this art in Mesoamerica and are dated at 300 BC.
 
 41. 西安交通大学主楼
 	1. Which year was the first Experimental Class for Talents of Basic Subject started?
