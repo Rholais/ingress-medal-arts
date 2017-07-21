@@ -271,6 +271,12 @@ Background Image by kakaguotao.
 	2. Shaw
 	3. SFS is located in Shaw Building, which has classrooms equipped with advanced recording and multimedia systems, and a simultaneous interpretation training system.
 
+531. xi'an jiaotong university museum
+
+532. 路易酒店
+
+533. Guge之盾
+
 54. 西安交通大学陕西秦腔博物馆
 	1. Which Department of Shaanxi Province took part in the formation of "西安交通大学陕西秦腔博物馆"?
 	2. Culture
