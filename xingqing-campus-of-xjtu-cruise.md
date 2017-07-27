@@ -303,6 +303,8 @@ Background Image by kakaguotao.
 59. 蘑菇亭
 	1. How many "蘑菇亭"s are here on the lawn?
 	2. 3
+	
+591. 资碑
 
 60. 南门喷泉
 	1. Which side of "思源学生活动中心" is "南门喷泉" at? Please enter a single CAPITAL letter.
