@@ -330,6 +330,9 @@ Background Image by kakaguotao.
 	2. 2006
 	3. Named after one of the previous presidents, Peng Kang, the Pengkang College, was founded in September 2006 as the first college of the collegiate system within Xi’an Jiaotong University, which opens a new chapter of cultivation reform at our university. 
 
+641. 枝繁叶茂英才辈出
+642. 交大兴庆校区教学二区
+
 65. 仲英书院
 	1. How many buildings of dormitory does "仲英书院" has?
 	2. 4
@@ -338,18 +341,21 @@ Background Image by kakaguotao.
 	1. Which year was "励志书院" founded in?
 	2. 2008
 	3. Lizhi College was founded in July 2008 and is located next to the former residence of Bai Juyi, one of the most famous poets of China in Tang Dynasty.
-	
-661. 赑屃
 
 67. 两个人
 	1. How many full-length portraits are here?
 	2. 2
-	3. Here is a couple of statues of people.
+	3. Here are a couple of statues of people.
+
+671. mashroom
+672. 南洋宿舍
 
 68. 白居易
 	1. Which Dynasty was Mr. Bai served?
 	2. Tang
 	3. Bai Juyi was a renowned Chinese poet and Tang Dynasty government official.
+
+681. 赑屃
 
 69. 白居易东亭碑记
 	1. How many provinces has Mr. Bai been governor of?
@@ -361,7 +367,10 @@ Background Image by kakaguotao.
 	2. 4
 	3. Paradise of Canbridge is a building of four floors.
 	
-701. 仲英院训墙
+701. 广场的东西
+702. 主楼地图
+703. 魂断蓝桥
+704. 仲英院训墙
 
 71. 西安交通大学 东南门
 	1. Which year was the original Xi'an Medical University integrated into Jiaotong University in?
