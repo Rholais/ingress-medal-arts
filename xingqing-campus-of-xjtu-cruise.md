@@ -370,7 +370,12 @@ Background Image by kakaguotao.
 701. 广场的东西
 702. 主楼地图
 703. 魂断蓝桥
-704. 仲英院训墙
+704. lost words
+705. 浮雕
+706. 玄武
+707. 逸夫科学馆
+708. 航空航天学院
+709. 仲英院训墙
 
 71. 西安交通大学 东南门
 	1. Which year was the original Xi'an Medical University integrated into Jiaotong University in?
