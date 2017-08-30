@@ -10,15 +10,26 @@ Background Image by kakaguotao.
 
 ##	Passphrases
 
-1. 交大北门
+1. 交大北门之墙塑
+
+2. 交大北门
 	1. What is the number of address of Jiaotong University in Xianning West Road?
 	2. 28
 	3. Xi'an Jiaotong University has three campuses: the Xingqing Campus (the East Campus) is in No. 28 Xianning Road, Xi'an city, Shaanxi Province; the Yanta Campus (the West Campus) is in No.205 Zhuque Street; the Qujiang Campus (the New Campus) is in No.99 Yanxiang Road, where some Chinese students study in. 
 
-2. 饮水思源雕塑
+3. 饮水思源雕塑
 	1. Which year was this sculpture built in?
 	2. 1981
 	3. This sculpture was built in the 85th anniversary of Jiaotong University.
+
+4. 交大电信学院
+5. 三头石驴
+6. 西二楼
+
+7. 百世师表
+	1. Which year was this "百世师表" given to Jiaotong University in?
+	2. 2004
+	3. The stone was donated to Jiaotong University around its 108th anniversary.
 
 3. Pillar with Words
 	1. How many "Pillar with Words"es are here in this side?
@@ -44,11 +55,6 @@ Background Image by kakaguotao.
 	1. Which year was Prof. Zhou born in?
 	2. 1909
 	3. Zhou Huijiu (1909 - 1999), native of Shenyang, Liaoning Province.
-
-8. 百世师表
-	1. Which year was this "百世师表" given to Jiaotong University in?
-	2. 2004
-	3. The stone was donated to Jiaotong University around its 108th anniversary.
 
 9. 彭康校长塑像
 	1. Which year was Former President Peng born in?
@@ -464,3 +470,7 @@ Background Image by kakaguotao.
 90. 打炮
 	1. How many "炮"s are here? 
 	2. 6
+
+##	Unused Portals
+
+* 学问碑
