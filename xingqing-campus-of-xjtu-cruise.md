@@ -31,30 +31,32 @@ Background Image by kakaguotao.
 	2. 2004
 	3. The stone was donated to Jiaotong University around its 108th anniversary.
 
-3. Pillar with Words
-	1. How many "Pillar with Words"es are here in this side?
-	2. 5
-	3. There are totally 10 pillars in both sides.
+8. 周惠久雕像
+	1. Which year was Prof. Zhou born in?
+	2. 1909
+	3. Zhou Huijiu (1909 - 1999), native of Shenyang, Liaoning Province.
 
-4. Stone Lion
-	1. Which year was this "Stone Lion" given to Jiaotong University in?
-	2. 1996
-	3. The Stone Lion was to celebrate the 100th anniversary of Jiaotong University.
-
-5. 历史柱
-	1. How many "历史柱"s are here in this side?
-	2. 5
-	3. 10 pillars are located in both sides.
-
-6. 不明雕像
+9. 不明雕像
 	1. Which treatise was "传道授业解惑" come from?
 	2. Shishuo
 	3. The Shishuo "Explanations to Teaching" is a treatise on teaching compiled by the Tang period (618-907) writer, thinker and politician Han Yu.
 
-7. 周惠久雕像
-	1. Which year was Prof. Zhou born in?
-	2. 1909
-	3. Zhou Huijiu (1909 - 1999), native of Shenyang, Liaoning Province.
+10. 历史柱
+	1. How many "历史柱"s are here in this side?
+	2. 5
+	3. 10 pillars are located in both sides.
+
+11. 交大理科楼
+
+12. Pillar with Words
+	1. How many "Pillar with Words"es are here in this side?
+	2. 5
+	3. There are totally 10 pillars in both sides.
+
+13. Stone Lion
+	1. Which year was this "Stone Lion" given to Jiaotong University in?
+	2. 1996
+	3. The Stone Lion was to celebrate the 100th anniversary of Jiaotong University.
 
 9. 彭康校长塑像
 	1. Which year was Former President Peng born in?
