@@ -58,24 +58,28 @@ Background Image by kakaguotao.
 	2. 1996
 	3. The Stone Lion was to celebrate the 100th anniversary of Jiaotong University.
 
-9. 彭康校长塑像
+14. 彭康校长塑像
 	1. Which year was Former President Peng born in?
 	2. 1901
 	3. Mr. Peng was born in Aug. 26th, 1901.
+	
+15. Donation Wall in Xi'an Jiaotong University
 
-10. 西花园
+16. 西花园
 	1. How many holes are here in this sculpture?
 	2. 2
 	3. A couple of holes are in this sculpture.
 
-11. Rock Statue in Xincheng
+17. Rock Statue in Xincheng
 	1. Which year was the nationwide college admission examinations restored in?
 	2. 1977
 	3. In late 1977, Deng Xiaoping, then under Hua Guofeng, the heir apparent of Mao, officially resumed the traditional examination based on academics, the National Higher Education Entrance Examination, which has continued to the present day.
 
-12. 电器
+18. 电器
 	1. How many Chinese characters are here on the stone?
 	2. 6
+
+19. 赛尔研究中心
 
 13. Statue of a Girl
 	1. How many white sculptures are here at the north gate of library?
