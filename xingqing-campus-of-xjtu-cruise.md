@@ -81,24 +81,26 @@ Background Image by kakaguotao.
 
 19. 赛尔研究中心
 
-13. Statue of a Girl
+20. Statue of a Girl
 	1. How many white sculptures are here at the north gate of library?
 	2. 2
 
-14. Statue of Qian
+21. Statue of Qian
 	1. Which year was Dr. Qian born in?
 	2. 1911
 
-15. 图书馆
+22. 图书馆
 	1. Which gate is this of the library? Please enter a single CAPITAL letter.
 	2. N
 
-16. Water Injection
+23. Water Injection
 	1. How many stone balls are here above the pool?
 	2. 3
 	3. Rising from the pool, there are three stone balls.
 
-17. Tengfei Tower
+24. 建筑浮雕
+
+25. Tengfei Tower
 	1. Which year was this tower built in?
 	2. 1986
 	3. The Tower was donated to Jiaotong University around its 90th anniversary.
