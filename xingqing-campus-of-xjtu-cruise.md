@@ -105,27 +105,29 @@ Background Image by kakaguotao.
 	2. 1986
 	3. The Tower was donated to Jiaotong University around its 90th anniversary.
 
-18. 图书馆喷泉
+26. 图书馆喷泉
 	1. Which year was the predecessor of Xi'an Jiaotong University Library built in?
 	2. 1896
 	3. The predecessor of Xi'an Jiaotong University Library was the book collection building of Nanyang College founded in Shanghai in 1896.
 
-19. 天降巨斧
+27. 天降巨斧
 	1. Which direction is the "天降巨斧" in? Please enter 2 CAPITAL letters.
 	2. NW
 	3. "天降巨斧" is actually Tengfei Tower.
 
-20. Library of xjtu
+28. Library of xjtu
 	1. Which city was the first independent library building established in?
 	2. Shanghai
 	3. An independent library building was built and named the Library of Shanghai Industry Polytechnic College of Communications Ministry in August, 1919, and renamed Jiaotong University Library in 1921.
 
-21. 钱学森图书馆东边的大鼎
+29. 钱学森图书馆东边的大鼎
 	1. How many percent of collections of the library moved to Xi'an?
 	2. 90
 	3. With the move of the University to Xi'an in 1956, the most of personnel and 90% of the collections of the library were moved from Shanghai to Xi'an.
 
-22. 西安交大百年校庆纪念
+30. 计算机网络与信息中心
+
+31. 西安交大百年校庆纪念
 	1. Which year was the “Qian Xuesen Experimental Class” established in?
 	2. 2007
 	3. In 2007, XJTU established the “Qian Xuesen Experimental Class” for particularly gifted students and the “Zonglian Experimental Class”, whose purpose is to develop an appropriate classroom model for medical education.
